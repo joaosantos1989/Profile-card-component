@@ -11,7 +11,7 @@ body {
 }
 
 .main {
-    background: url("/images/bg-pattern-top.svg"), url("/images/bg-pattern-bottom.svg");
+    background: url("./images/bg-pattern-top.svg"), url("./images/bg-pattern-bottom.svg");
     background-color: hsl(185, 75%, 39%);
     min-height: 100vh;
     display: flex;
@@ -30,7 +30,7 @@ body {
 .upper-container {
     width: 350px;
     height: 150px;
-    background: url("/images/bg-pattern-card.svg");
+    background: url("./images/bg-pattern-card.svg");
     background-size: cover;
 
 }
